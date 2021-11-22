@@ -8,3 +8,7 @@
 # Start
 - Clone all the files from the directory.
 - Run 'RoomEscape.exe' to start the game.
+
+# Solutions To Puzzles
+- Puzzle 1: Click in this order, {blue, green, silver, gold, amber, purple}
+- Puzzle 2: Click middle, bottom middle, left middle, right middle, top middle.
